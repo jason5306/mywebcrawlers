@@ -1,0 +1,1 @@
+This crawler downloads computer vision related research paper information data from the Web of Science. The data is analyzed in another project [Development of Models Used in Computer Vision](https://github.com/jason5306/dash-vis-app).
